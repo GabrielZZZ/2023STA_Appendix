@@ -1,7 +1,6 @@
 # The results of using ChatGPT for generating difference number of metamorphic relations
 
-::: table*
-   **Metamorphic Relation**  **Description**
+   **Metamorphic Relation**                    **Description**
   -------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------
              MR1             If the initial parking spot is occupied, the system should identify an alternative parking spot.
              MR2             If the car is facing in the opposite direction of the initial parking spot, the system should perform a U-turn and approach the spot from the correct direction.
@@ -24,5 +23,5 @@
              MR19            If the car is parked in a handicapped parking spot, the system should display a message to the driver.
              MR20            If the car is parked in a spot reserved for electric vehicles, the system should display a message to the driver.
 
-[]{#table:parking-mr-long label="table:parking-mr-long"}
-:::
+
+
